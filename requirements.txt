@@ -12,7 +12,7 @@ certifi==2018.1.18
 chardet==3.0.4
 Click==7.0
 configparser==3.5.0
-cryptography==2.1.4
+cryptography==3.2
 cymem==2.0.2
 cytoolz==0.9.0.1
 decorator==4.3.0
